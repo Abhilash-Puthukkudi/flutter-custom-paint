@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text("C U S T O M P A I N T"),
+        title: const Text("C U S T O M  - P A I N T"),
       ),
       body: const SizedBox(
         height: double.infinity,
